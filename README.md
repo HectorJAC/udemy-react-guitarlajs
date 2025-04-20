@@ -1,4 +1,4 @@
-# Udemy - Curso React y Typescript - La Guia Completa - Juan Pablo De la Torre
+# Udemy - Curso React y Typescript - La Guia Completa
 
 ## Proyecto 01-GuitarLA
 
